@@ -16,7 +16,7 @@
 
 
 
-#RESPSTAS DOS EXERCÍCIOS DE TRATAMENTO DE EXCEÇÕES:
+#RESPOSTAS DOS EXERCÍCIOS DE TRATAMENTO DE EXCEÇÕES:
 #resposta do Exercício 1: Divisão com tratamento de exceções
 
 try:
@@ -53,3 +53,5 @@ except ValueError:
     print("Erro: O valor digitado não é um número inteiro válido.")
 finally:
     print("Programa encerrado.")
+
+

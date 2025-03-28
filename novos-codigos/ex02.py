@@ -15,7 +15,7 @@
 # Caso o usuário insira um valor inválido, trate a exceção e exiba uma mensagem apropriada.
 
 
-
+#ATENÇÃO: TENTE FAZER O EXERCICIO ANTES DE VISUALIZAR AS RESPOSTAS! 
 #RESPOSTAS DOS EXERCÍCIOS DE TRATAMENTO DE EXCEÇÕES:
 #resposta do Exercício 1: Divisão com tratamento de exceções
 
